@@ -1,1 +1,3 @@
-console.log('Hello World');
+import { util } from "@module-not-found-repro/util";
+
+util()
